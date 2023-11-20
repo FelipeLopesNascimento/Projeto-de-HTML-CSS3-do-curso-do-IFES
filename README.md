@@ -1,11 +1,4 @@
 # Projeto-de-HTML-CSS3-do-curso-do-IFES
-Projeto de HTML e CSS3 do curso do IFES
-Atividade Prática da Semana (Repl.it)
-Nessa atividade você vai colocar em prática todo o conteúdo abordado ao longo da semana.
-Para realizar a atividade, siga os seguintes passos:
-1) Assista ao vídeo de apresentação da atividade;
-2) Entre no ambiente do Repl.it e acesse a tarefa "Atividade Prática da Semana 4 de Bootstrap 5";
-3) Siga as instruções da atividade no Repl.it para resolver as questões;
-4) Se a atividade não estiver sendo mostrada para você, entre em contato com o monitor ou professor mediador o quanto antes;
-5) Se ficar dúvidas em alguma questão, não hesite em procurar o monitor ou o professor mediador;
-6) Ao concluir a atividade, não se esqueça de SUBMETÊ-LA;
+Atividade Prática da Semana 5
+Na atividade prática da semana 4, você finalizou a criação de um site de portfólio do tipo página única! Na atividade da semana 5, o foco será na responsividade. Você está recebendo o código-fonte do site de portfólio pessoal com responsividade semiacabado. Assim como na semana anterior, sua tarefa será concluí-lo. Sua primeira tarefa é transferir os seus dados pessoais para esse site, substituindo os conteúdos pessoais fictícios. Em seguida, você deverá abrir o arquivo "estilos.css" e completar os seletores CSS nos trechos comentados usando as proprieades adequadas para o que é pedido.
+Para começar, selecione o arquivo "index.html" e clique no botão "Run" no cabeçalho para visualizar a renderização da página no navegador incorporado do Repl.it. Depois disso, insira seus dados pessoais e em seguida selecione o arquivo "estilos.css" para começar a trabalhar nele. Enquanto estiver fazendo as alterações no código CSS, você pode pressionar "Ctrl+S" para aplicá-las à visualização do arquivo "index.html". Faça isso a cada alteração e observe o impacto causado. Isso te ajudará a compreender a utilidade de cada uma das propriedades CSS que estão sendo trabalhadas. Para concluir, não deixe também de assistir ao vídeo de apresentação dessa atividade, pois ele tem dicas valiosas. A figura abaixo mostra duas visões da versão responsiva do site já concluído. Bons estudos!
